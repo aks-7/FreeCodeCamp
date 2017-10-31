@@ -1,4 +1,4 @@
-# FreeCodeCamp
+# FreeCodeCAMP
 Projects/Challenges of freecodecamp solved and hosted on codepen
 # Codepen Links
 #### RandomQuoteMachine - https://codepen.io/EmBer_Learns_Frontend/pen/YQzQzr
